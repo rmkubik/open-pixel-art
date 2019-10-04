@@ -55,6 +55,60 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "teddy-gustiaux",
+      "name": "Teddy Gustiaux",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26365722?v=4",
+      "profile": "https://gustiaux.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AidanJSmith",
+      "name": "Aidan Smith",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26717362?v=4",
+      "profile": "https://github.com/AidanJSmith",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "TheHandsomeCoder",
+      "name": "Scott O'Malley",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1569604?v=4",
+      "profile": "https://github.com/TheHandsomeCoder",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "toddmoy",
+      "name": "Todd Moy",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22126?v=4",
+      "profile": "http://www.toddmoy.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "FailedSitcom",
+      "name": "Samuel Durkin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6232253?v=4",
+      "profile": "http://www.samueldurkin.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nokenwa",
+      "name": "ChatterboxCoder",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/23080261?v=4",
+      "profile": "https://github.com/nokenwa",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
